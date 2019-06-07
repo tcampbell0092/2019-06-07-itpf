@@ -1,3 +1,4 @@
-Edit to readme
+This is a brand new README file that I am testing. Would like to update this and
+push it to the latest branch for committing.
 
-more edits to readme
+This is fun AF.
